@@ -61,7 +61,7 @@ Contiene las pruebas unitarias para verificar las funciones del juego:
 - `test_cruzar_rio_objeto_no_en_orilla()`: Verifica el manejo de objetos que no están en la orilla actual.
 - `test_estado_no_valido_despues_de_cruzar()`: Prueba estados no válidos después de un cruce.
 
-## Autor
+## Autores
 
 Desarrollado por Grupo 4
 Integrantes:
