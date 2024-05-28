@@ -67,6 +67,8 @@ Desarrollado por Grupo 4
 Integrantes:
 - Adrian Paguay
 - Mateo Pilco
-- 
--
+- Joselyn Pilco
+- Jhon Meza
+- Milton Pastor
+- Brandon Oña
 
